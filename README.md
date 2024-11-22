@@ -5,7 +5,7 @@ Criado para documentar experiência com o sistema Mini OS (LINUX)
 ```bash
 sudo apt install gimp -y
 ```
-
+<br><br>
 
 
 <h2>FFMPEG</h2>
@@ -14,7 +14,7 @@ sudo apt install gimp -y
 ```bash
 sudo apt install ffmpeg -y
 ```
-
+<br><br>
 
 <h2>MPV</h2>
 <img src="https://raw.githubusercontent.com/JeversonDiasSilva/myOS/main/img/mpv.png" width=48 height=48 /><b><i>&nbsp;</i></b><br>
