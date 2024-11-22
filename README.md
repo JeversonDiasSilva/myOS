@@ -40,7 +40,7 @@ sudo apt install cheese -y
 # git 
 ```bash
 sudo apt install git -y
-``
+```
 <br><br>`
 
 # !!!
