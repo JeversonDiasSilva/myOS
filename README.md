@@ -27,8 +27,8 @@ sudo apt install gparted -y
 
 # Cheese
 ```bash
-sudo apt install cheese
-``
+sudo apt install cheese -y
+```
 
 
 
