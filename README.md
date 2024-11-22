@@ -10,7 +10,6 @@ sudo apt install gimp -y
 
 <h2>ffmpeg</h2>
 <img src="https://raw.githubusercontent.com/JeversonDiasSilva/myOS/main/img/ffmpeg.png" width=48 height=48 /><b><i>&nbsp;</i></b><br>
-
 ```bash
 sudo apt install ffmpeg -y
 ```
