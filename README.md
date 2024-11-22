@@ -7,9 +7,9 @@ sudo apt install gimp -y
 ```
 
 
-# ffmpeg
 
-<img src="https://raw.githubusercontent.com/JeversonDiasSilva/myOS/main/img/ffmpeg.png" width=48 height=48 /><b><i>&nbsp;FFMPEG</i></b><br>
+
+<img src="https://raw.githubusercontent.com/JeversonDiasSilva/myOS/main/img/ffmpeg.png" width=48 height=48 /><b><i>&nbsp;# FFMPEG</i></b><br>
 
 ```bash
 sudo apt install ffmpeg -y
