@@ -22,25 +22,26 @@ sudo apt install ffmpeg -y
 ```bash
 sudo apt install mpv -y
 ```
-
+<br><br>
 
 # gpared
 ```bash
 sudo apt install gparted -y
 ```
-
+<br><br>
 
 # Cheese
 ```bash
 sudo apt install cheese -y
 ```
 
-
+<br><br>
 
 # git 
 ```bash
 sudo apt install git -y
-```
+``
+<br><br>`
 
 # !!!
-<img src="https://github.com/uureel/batocera.pro/raw/main/switch/extra/icon.png" width=48 height=48 /><b><i>&nbsp;SWITCH</i></b><br>
+<img src="https://github.com/uureel/batocera.pro/raw/main/switch/extra/icon.png" width=48 height=48 /><b><i>&nbsp;Release</i></b><br>
