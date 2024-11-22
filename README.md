@@ -10,6 +10,7 @@ sudo apt install gimp -y
 
 <h2>FFMPEG</h2>
 <img src="https://raw.githubusercontent.com/JeversonDiasSilva/myOS/main/img/ffmpeg.png" width=48 height=48 /><b><i>&nbsp;</i></b><br>
+
 ```bash
 sudo apt install ffmpeg -y
 ```
@@ -17,6 +18,7 @@ sudo apt install ffmpeg -y
 
 <h2>MPV</h2>
 <img src="https://raw.githubusercontent.com/JeversonDiasSilva/myOS/main/img/mpv.png" width=48 height=48 /><b><i>&nbsp;</i></b><br>
+
 ```bash
 sudo apt install mpv -y
 ```
