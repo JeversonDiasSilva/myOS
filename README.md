@@ -33,7 +33,6 @@ sudo apt install cheese -y
 
 
 # git 
-# (PRIVADO)
 ```bash
 sudo apt install git -y
 ```
