@@ -3,7 +3,7 @@ Criado para documentar experiência com o sistema Mini OS (LINUX)
 
 # gimp
 ```bash
-
+sudo apt install gimp -y
 ```
 
 
@@ -27,13 +27,15 @@ sudo apt install gparted -y
 
 # Cheese
 ```bash
-sudo apt install cheese
-``
+sudo apt install cheese -y
+```
 
 
 
 # git 
-# (PRIVADO)
 ```bash
 sudo apt install git -y
 ```
+
+# !!!
+<img src="https://github.com/uureel/batocera.pro/raw/main/switch/extra/icon.png" width=48 height=48 /><b><i>&nbsp;SWITCH-EMULATION</i></b><br>
