@@ -3,7 +3,7 @@ Criado para documentar experiência com o sistema Mini OS (LINUX)
 
 # gimp
 ```bash
-
+sudo apt install gimp -y
 ```
 
 
