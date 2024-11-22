@@ -15,7 +15,9 @@ sudo apt install ffmpeg -y
 ```
 
 
-mpv
+mpv https://github.com/JeversonDiasSilva/myOS/blob/main/img/mpv.png
+<img src="https://raw.githubusercontent.com/JeversonDiasSilva/myOS/main/img/mpv.png" width=48 height=48 /><b><i>&nbsp;</i></b><br>
+
 ```bash
 sudo apt install mpv -y
 ```
