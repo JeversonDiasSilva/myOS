@@ -36,3 +36,6 @@ sudo apt install cheese -y
 ```bash
 sudo apt install git -y
 ```
+
+# !!!
+<img src="https://github.com/uureel/batocera.pro/raw/main/switch/extra/icon.png" width=48 height=48 /><b><i>&nbsp;SWITCH-EMULATION</i></b><br>
